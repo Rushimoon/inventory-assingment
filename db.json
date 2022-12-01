@@ -1,0 +1,102 @@
+{
+  "inventory": [
+    {
+      "name": "headphones",
+      "image": "https://rukminim1.flixcart.com/image/200/200/krtjgcw0/headphone/1/i/y/au-mh601-maono-original-imag5j35zty3g6hq.jpeg?q=70",
+      "price": 5,
+      "brand": "sony",
+      "id": 1
+    },
+    {
+      "name": "welding machine",
+      "image": "https://rukminim1.flixcart.com/image/200/200/xif0q/welding-machine/c/7/3/15-m220-76-arc-igbt-220a-with-hot-start-anti-stick-functions-arc-original-imaggaxpxcs4ffwg.jpeg?q=70",
+      "price": 23423423423,
+      "brand": "moon",
+      "id": "1669924481590welding machine"
+    },
+    {
+      "name": "rqwer",
+      "image": "https://rukminim1.flixcart.com/image/200/200/kubk70w0/key-holder/d/9/h/6-cak-line-capio-art-original-imag7hfg5ztjbkkn.jpeg?q=70",
+      "price": 56656,
+      "brand": "eqwrqwer",
+      "id": "1669925538591rqwer"
+    },
+    {
+      "name": "cara",
+      "image": "https://rukminim1.flixcart.com/image/200/200/knqd3m80/toothpaste/1/z/t/600-maxfresh-toothpaste-spicy-fresh-red-gel-paste-with-menthol-original-imag2ckhxtyaaz5j.jpeg?q=70",
+      "price": 234234,
+      "brand": "moon",
+      "id": "1669928062351cara"
+    },
+    {
+      "name": "treadmill",
+      "image": "https://rukminim1.flixcart.com/image/200/200/kdj4xow0/treadmill/b/g/c/ft098-steel-motorized-ft98-steel-motorized-motorized-fitkit-original-imafuerskytashcz.jpeg?q=70",
+      "price": 2344,
+      "brand": "erwerwe",
+      "id": "1669928085542treadmill"
+    },
+    {
+      "name": "cycle",
+      "image": "https://rukminim1.flixcart.com/image/200/200/jlph9jk0/cycle/h/f/k/skyper-26t-sskp26bk0001-16-hero-original-imaf8ru5xysfgtmx.jpeg?q=70",
+      "price": 243434,
+      "brand": "hreculise",
+      "id": "1669928113639cycle"
+    },
+    {
+      "name": "uts",
+      "image": "https://rukminim1.flixcart.com/image/200/200/jb5e4y80/soap/x/e/u/3-375-pure-and-gentle-soap-bar-pears-original-imafykhkbnzsjqhd.jpeg?q=70",
+      "price": 40,
+      "brand": "moon",
+      "id": "1669928142832uts"
+    },
+    {
+      "name": "soa[",
+      "image": "",
+      "price": 67,
+      "brand": "moon",
+      "id": "1669928158752soa["
+    },
+    {
+      "name": "camera",
+      "image": "https://rukminim1.flixcart.com/image/200/200/knyxqq80/dslr-camera/r/y/x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.jpeg?q=70",
+      "price": 34234,
+      "brand": "coadas",
+      "id": "1669928188871camera"
+    },
+    {
+      "name": "monitor",
+      "image": "https://rukminim1.flixcart.com/image/200/200/l5ld8y80/monitor/l/k/s/-original-imagg897ufhyvwqq.jpeg?q=70",
+      "price": 23423,
+      "brand": "",
+      "id": "1669928210919monitor"
+    },
+    {
+      "name": "projector",
+      "image": "https://rukminim1.flixcart.com/image/200/200/kx50gi80/projector/r/9/p/zeb-pixa-play-12-5-6-dobly-audio-led-projector-zebronics-original-imag9z3yujqmzqt4.jpeg?q=70",
+      "price": 4533,
+      "brand": "moon",
+      "id": "1669928259255projector"
+    },
+    {
+      "name": "power bank",
+      "image": "https://rukminim1.flixcart.com/image/200/200/l1pc3gw0/power-bank/e/u/y/-original-imagd7dzan7sakt2.jpeg?q=70",
+      "price": 456,
+      "brand": "wqe",
+      "id": "1669928281632power bank"
+    },
+    {
+      "name": "moibile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/ku4ezrk0/mobile/b/o/m/c31-mzb0a0min-poco-original-imag7bzqxekkpkrv.jpeg?q=90",
+      "price": 3444,
+      "brand": "rtwertewr",
+      "id": "1669928350935moibile"
+    },
+    {
+      "name": "pendrive",
+      "image": "https://rukminim1.flixcart.com/image/612/612/k7p37gw0/pendrive/pendrive/u/k/f/hp-236-metal-original-imafpvufe6kh7f3h.jpeg?q=70",
+      "price": 985,
+      "brand": "we",
+      "id": "1669928395360pendrive"
+    }
+  ]
+}
